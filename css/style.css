@@ -37,7 +37,7 @@
 
 .col-14{
     max-width: calc(100% / 7 - 5px);
-    max-height: calc(100% / 5 - 5px);
+    height: calc(100% / 5 - 5px);
 }
 
 .col-14 img{
